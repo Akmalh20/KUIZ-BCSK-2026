@@ -120,8 +120,8 @@
   <!-- Audio Player (Background Music) -->
   <!-- Boleh gunakan URL MP3 muzik tradisional Cina atau pautan luar anda sendiri -->
   <audio id="bgm-audio" loop preload="auto">
-    <source src="https://assets.mixkit.co/music/preview/mixkit-traditional-oriental-asian-cinematic-theme-2751.mp3" type="audio/mpeg">
-  </audio>
+         <source src="awake.mp3" type="audio/mpeg">
+       </audio>
 
   <!-- MAIN CONTAINER -->
   <main class="flex-grow max-w-5xl mx-auto w-full p-4 sm:p-6 flex flex-col justify-center items-center">
